@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krullmizter&show_icons=true&locale=en&layout=compact" alt="krullmizter" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krullmizter&theme=cobalt2&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krullmizter&show_icons=true&locale=en" alt="krullmizter" /></p>
 
