@@ -20,7 +20,7 @@ Bachelor's degree in Information Technology from Arcada University of Applied Sc
 
 ---
 
-📫 How to reach me **samgran@outlook.com**
+📫 How to reach me **samuelgranvik@protonmail.com**
 
 📖 Link to BE Degree Thesis (Dog Breed Identification using Fast.ai): https://shorturl.at/rySU5
 
