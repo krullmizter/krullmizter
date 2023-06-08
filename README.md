@@ -24,6 +24,7 @@ Bachelor's degree in Information Technology from Arcada University of Applied Sc
 
 📖 Link to BE Degree Thesis (Dog Breed Identification using Fast.ai): https://shorturl.at/rySU5
 
-🧐 My StackOverflow profile: https://stackoverflow.com/users/10395139/krullmizter
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png?20190716190036" width="28px" height="28px" style="vertical-align:bottom"> 
+<p>StackOverflow Profile: https://stackoverflow.com/users/10395139/krullmizter</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krullmizter&theme=cobalt2&show_icons=true)
