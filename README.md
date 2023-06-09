@@ -10,7 +10,7 @@ Highly skilled IT engineer and agile full-stack developer with a proven track re
 Main Technical Stack:
 
     Languages: Ruby, PHP, Python, .NET, C#, C
-    WebDev: WordPress, SCSS, JavaScript, Node.js, TypeScript, Vue.js, jQuery
+    WebDev:    WordPress, SCSS, JavaScript, Node.js, TypeScript, Vue.js, jQuery
     Databases: Redis, MySQL, GraphQL, MongoDB
 </p>
 
