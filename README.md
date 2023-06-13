@@ -20,6 +20,6 @@ Main Technical Stack:
 
 📖 BE Degree Thesis (Dog Breed Identification using Fast.ai): https://shorturl.at/rySU5
 
-My personal website / blog: samuelgranvik.tech
+My personal website / blog: [samuelgranvik.tech](https://www.samuelgranvik.tech/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krullmizter&theme=cobalt2&show_icons=true)
