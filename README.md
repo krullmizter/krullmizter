@@ -21,7 +21,7 @@ Favorite:
 
 📫 How to reach me **samuelgranvik@protonmail.com**
 
-📖 BE Degree Thesis (Dog Breed Identification using Fast.ai): https://shorturl.at/rySU5
+📖 BE Degree Thesis [(Dog Breed Identification using Fast.ai)](https://www.theseus.fi/handle/10024/799064)
 
 My website/blog: [samuelgranvik.tech](https://www.samuelgranvik.tech/)
 
