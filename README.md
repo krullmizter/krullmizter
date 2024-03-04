@@ -3,15 +3,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krullmizter&label=Profile%20views&color=0e75b6&style=flat" alt="krullmizter" /> </p>
 
 <p>
-Experienced IT Engineer & Full-Stack Developer | Passionate about Deep Learning, Cybersecurity, & Systems Development
+Experienced Engineer, Developer & Cybersecurity enthusiast, with expertise in areas such as DL, cybersecurity, reverse-engineering, software, web, and API development, among others.
 
-Highly skilled IT engineer and agile full-stack developer with a proven track record in solving software and hardware challenges across diverse industries, including marketing, API development, SaaS, payment gateways, and CMS systems, among others. My expertise extends to a range of technologies and areas of interest, such as deep learning, open-source development, cybersecurity, Unix systems, and game development.
+With a foundation of a Bachelor’s in Information Technology from Arcada University of Applied Sciences, and an ongoing M.Sc. in Computer Engineering at Åbo Akademi, my interests, academic, and professional experiences combine and encompass a wide spectrum of the tech industry.
 
-Main Technical Stack:
+My expertise spans Technical support, reverse-engineering, CMS, software, and API development, underpinned by a proficiency in Ruby, JavaScript, C#, React, and a deep understanding of Laravel, PHP, C, Python, WordPress, and Node.js, among others.
 
-    Languages: Ruby, PHP, Python, .NET, C#, C
-    WebDev:    WordPress, SCSS, JavaScript, Node.js, TypeScript, Vue.js, jQuery
+Favorite:
+
+    Languages: Ruby, PHP, Python, JS, C#, C
+    WebDev: Laravel, WordPress, SCSS, Node.js, TS, React
     Databases: Redis, MySQL, GraphQL, MongoDB
+    Topics: Cybersecurity, Digital Privacy, Reverse-engineering, Deep-learning
 </p>
 
 ---
@@ -20,6 +23,6 @@ Main Technical Stack:
 
 📖 BE Degree Thesis (Dog Breed Identification using Fast.ai): https://shorturl.at/rySU5
 
-My personal website / blog: [samuelgranvik.tech](https://www.samuelgranvik.tech/)
+My website/blog: [samuelgranvik.tech](https://www.samuelgranvik.tech/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krullmizter&theme=cobalt2&show_icons=true)
